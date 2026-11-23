@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/rramitha533-droid/java-sec-F/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/rramitha533-droid/java-sec-F/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rramitha533-droid/java-sec-F/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/rramitha533-droid/java-sec-F/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rramitha533-droid/java-sec-F/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rramitha533-droid/java-sec-F/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rramitha533-droid/java-sec-F/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/rramitha533-droid/java-sec-F/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rramitha533-droid/java-sec-F/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
