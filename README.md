@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/rramitha533-droid/java-sec-F/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/rramitha533-droid/java-sec-F/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/rramitha533-droid/java-sec-F/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rramitha533-droid/java-sec-F/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
