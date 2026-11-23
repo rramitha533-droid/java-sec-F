@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rramitha533-droid/java-sec-F/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/rramitha533-droid/java-sec-F/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/rramitha533-droid/java-sec-F/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rramitha533-droid/java-sec-F/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
