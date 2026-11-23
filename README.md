@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rramitha533-droid/java-sec-F/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
+| [0724-find-pivot-index](https://github.com/rramitha533-droid/java-sec-F/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rramitha533-droid/java-sec-F/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0867-transpose-matrix) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rramitha533-droid/java-sec-F/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
