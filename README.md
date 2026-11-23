@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rramitha533-droid/java-sec-F/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rramitha533-droid/java-sec-F/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/rramitha533-droid/java-sec-F/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rramitha533-droid/java-sec-F/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/rramitha533-droid/java-sec-F/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/rramitha533-droid/java-sec-F/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rramitha533-droid/java-sec-F/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/rramitha533-droid/java-sec-F/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rramitha533-droid/java-sec-F/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/rramitha533-droid/java-sec-F/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rramitha533-droid/java-sec-F/tree/master/2114-maximum-number-of-words-found-in-sentences) |
