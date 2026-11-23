@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rramitha533-droid/java-sec-F/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rramitha533-droid/java-sec-F/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rramitha533-droid/java-sec-F/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/rramitha533-droid/java-sec-F/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/rramitha533-droid/java-sec-F/tree/master/2000-reverse-prefix-of-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
