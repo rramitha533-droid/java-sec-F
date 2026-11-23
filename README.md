@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/rramitha533-droid/java-sec-F/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rramitha533-droid/java-sec-F/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2427-number-of-common-factors](https://github.com/rramitha533-droid/java-sec-F/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rramitha533-droid/java-sec-F/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
