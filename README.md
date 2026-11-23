@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rramitha533-droid/java-sec-F/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/rramitha533-droid/java-sec-F/tree/master/1572-matrix-diagonal-sum) |
+| [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
+| [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
 ## Simulation
 |  |
 | ------- |
