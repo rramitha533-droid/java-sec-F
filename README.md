@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0074-search-a-2d-matrix) |
+| [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
 | [0766-toeplitz-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0867-transpose-matrix) |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rramitha533-droid/java-sec-F/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rramitha533-droid/java-sec-F/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -64,5 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rramitha533-droid/java-sec-F/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
