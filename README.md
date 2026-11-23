@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/rramitha533-droid/java-sec-F/tree/master/1051-height-checker) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rramitha533-droid/java-sec-F/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rramitha533-droid/java-sec-F/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rramitha533-droid/java-sec-F/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
