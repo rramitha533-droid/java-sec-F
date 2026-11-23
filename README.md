@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rramitha533-droid/java-sec-F/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rramitha533-droid/java-sec-F/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0455-assign-cookies](https://github.com/rramitha533-droid/java-sec-F/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rramitha533-droid/java-sec-F/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -91,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rramitha533-droid/java-sec-F/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rramitha533-droid/java-sec-F/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
