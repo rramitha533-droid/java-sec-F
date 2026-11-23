@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/rramitha533-droid/java-sec-F/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/rramitha533-droid/java-sec-F/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/rramitha533-droid/java-sec-F/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rramitha533-droid/java-sec-F/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/rramitha533-droid/java-sec-F/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/rramitha533-droid/java-sec-F/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
