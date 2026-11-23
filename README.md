@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rramitha533-droid/java-sec-F/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rramitha533-droid/java-sec-F/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rramitha533-droid/java-sec-F/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rramitha533-droid/java-sec-F/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/rramitha533-droid/java-sec-F/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/rramitha533-droid/java-sec-F/tree/master/1773-count-items-matching-a-rule) |
 ## Greedy
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/rramitha533-droid/java-sec-F/tree/master/0561-array-partition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rramitha533-droid/java-sec-F/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rramitha533-droid/java-sec-F/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Counting Sort
 |  |
 | ------- |
