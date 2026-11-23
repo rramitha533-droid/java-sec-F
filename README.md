@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/rramitha533-droid/java-sec-F/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
+| [2427-number-of-common-factors](https://github.com/rramitha533-droid/java-sec-F/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -127,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rramitha533-droid/java-sec-F/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rramitha533-droid/java-sec-F/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rramitha533-droid/java-sec-F/tree/master/1732-find-the-highest-altitude) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/rramitha533-droid/java-sec-F/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/rramitha533-droid/java-sec-F/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/rramitha533-droid/java-sec-F/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/rramitha533-droid/java-sec-F/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
