@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rramitha533-droid/java-sec-F/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/rramitha533-droid/java-sec-F/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rramitha533-droid/java-sec-F/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rramitha533-droid/java-sec-F/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/rramitha533-droid/java-sec-F/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rramitha533-droid/java-sec-F/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rramitha533-droid/java-sec-F/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/rramitha533-droid/java-sec-F/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rramitha533-droid/java-sec-F/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
